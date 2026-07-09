@@ -1,10 +1,10 @@
-# Hi, I’m Tejaswini Patil 👋
+# Tejaswini Patil
 
 ### Data Analytics | Business Intelligence | Machine Learning | NLP | LLM-Based Analytics
 
-I am a **StackFuel-certified Data Scientist and Business Intelligence Specialist** with a professional background in **procurement, purchasing, finance, and business operations**.
+StackFuel-certified **Data Scientist** and **Business Intelligence Specialist** with a background in procurement, purchasing, finance, and business operations.
 
-I build data projects that combine business understanding with technical skills in **Python, Power BI, machine learning, NLP, and LLM-based analytics**. My focus is on turning raw data into clear insights, visual reports, and practical decision-support solutions.
+I build data projects that combine business understanding with technical skills in **Python, Power BI, machine learning, NLP, and LLM-based analytics**. My focus is on transforming raw data into clear insights, visual reports, and practical decision-support solutions.
 
 ---
 
